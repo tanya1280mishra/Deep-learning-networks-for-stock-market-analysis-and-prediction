@@ -25,5 +25,5 @@ These advanced models offer the potential to:
 By incorporating these techniques, we aim to push the boundaries of stock prediction within this research project.
 
 
-This code is combination from various sources.
+This code is combined from various sources.
 
