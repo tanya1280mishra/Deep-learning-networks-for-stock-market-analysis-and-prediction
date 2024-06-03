@@ -1,5 +1,6 @@
 Deep learning networks for stock market analysis and prediction:
 This research investigates how deep learning can be used for stock market analysis and prediction. Here are the key points:
+Journal link: https://www.sciencedirect.com/science/article/abs/pii/S0957417417302750
 
 •	Deep learning for stock prediction: The study explores using deep neural networks, a type of artificial intelligence, to predict stock returns. This is a task traditionally done with statistical methods. Deep learning can automatically find patterns in data without needing specific assumptions about the data.
 •	Data representation methods: The research examines how different methods for representing the data affect the performance of deep learning models for stock return prediction. Three methods are investigated: principal component analysis, autoencoder, and restricted Boltzmann machine.
